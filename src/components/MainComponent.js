@@ -7,6 +7,7 @@ function MainComponent() {
   return (
     <div>
       <Header />
+      <Header />
       <Body />
       <Header />
     </div>
