@@ -6,8 +6,6 @@ import Header from "./Header";
 function MainComponent() {
   return (
     <div>
-      <Header />
-      <Header />
       <Body />
       <Header />
     </div>
