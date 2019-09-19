@@ -1,13 +1,12 @@
 import React from "react";
-//import ReactDom from "react-dom";
-import Body from "./Body";
-import Header from "./Header";
+//import Checkbox from "./Checkbox";
+//import CheckboxHolder from "./CheckboxHolder";
+import TimeCalculator from "./timeCalculator";
 
 function MainComponent() {
   return (
     <div>
-      <Body />
-      <Header />
+      <TimeCalculator />
     </div>
   );
 }
